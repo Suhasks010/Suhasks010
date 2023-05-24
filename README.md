@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suhas
-- 👀 I’m interested in python Programming.  
+- 👀 I’m in the middle of Qspiders training.  
 - 🌱 I’m currently hacking the course of 100 days of Python Challenge on Udemy. 
 
 <!---
