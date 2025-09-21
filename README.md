@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suhas
-- 👀 I’m in the middle of Qspiders training.  
+- 👀 I’m current working.  
 
 <!---
 Suhasks010/Suhasks010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
